@@ -1,5 +1,8 @@
 Testing
 - JavaScript
+  ^ ES6
+  ^ React
 - PHP
+  ^ Laravel
 - Python
 - Struktur Data
