@@ -1,1 +1,5 @@
 Testing
+- JavaScript
+- PHP
+- Python
+- Struktur Data
