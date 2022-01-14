@@ -4,4 +4,5 @@ Testing
   ^ ES6
   ^ React
 - PHP
+  ^ Laravel
 - Python
